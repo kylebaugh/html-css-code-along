@@ -1,0 +1,34 @@
+h1{
+    color:red
+}
+
+body{
+    background-color: lightgreen;
+}
+
+#id-example{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paragraph{
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.main-div{
+    background-color: peru;
+}
+
+.div1{
+    background-color: peachpuff;
+}
+
+.span-example{
+    color:purple
+}
+
+.picture-time{
+    height:400px;
+}
